@@ -1,6 +1,6 @@
 // ===== CONFIG - REPLACE BEFORE USE =====
 const DISCORD_CLIENT_ID = "1425187145953448127";
-const REDIRECT_URI = "https://eb88030d-b78c-4ac1-ad06-545d1e9bcf29-00-snywc1fuiztu.riker.replit.dev/";
+const REDIRECT_URI = "https://c22654545-afk.github.io/Te/";
 const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1425543224436461780/aA7jkvaIpEwnzYhvS9o7DwcpLKpniRXlBXQNV5RtFbKuG6kFzyP7p1Qnig_33bjw1hf7";
 const GROQ_API_KEY = "";
 const MAX_MEMORY_MESSAGES = 5090;
